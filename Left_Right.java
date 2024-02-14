@@ -12,3 +12,8 @@ boolean A = value < value2;
 System.out.println("Checking L.H.S < R.H.S:" + A);
 }
 }
+/*
+Output:
+1: Compile Time: Success
+2: RunTimme: Success: True
+*/
